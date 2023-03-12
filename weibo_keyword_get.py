@@ -78,7 +78,7 @@ def timetrans(time_str:str):
 
 def main():
     card = []
-    keyword = "宋慧乔演技感染力"#在此处修改搜索词
+    keyword = "山河四省"#在此处修改搜索词
     i = 1
     card_len = len(card)
     error=0
